@@ -6,7 +6,7 @@ in this project I 3D design a penguin pen holder using Fusion360.
 
 
 The Final Design
-
+![Screenshot 2026-03-15 at 09.21.59](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIxMzAwLCJwdXIiOiJibG9iX2lkIn19--7901ceab37c8ad45e750db8d73a5b442b1c99ed9/Screenshot%202026-03-15%20at%2009.21.59.png)
 
 ## Key Features
 - **Penguin top 3D Design** Equipped with holes for lamp cable, and hole to install the heat set insert.
