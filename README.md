@@ -6,7 +6,7 @@ in this project I 3D design a penguin pen holder using Fusion360.
 
 
 The Final Design
-![Screenshot 2026-03-15 at 09.21.59](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIxMzAwLCJwdXIiOiJibG9iX2lkIn19--7901ceab37c8ad45e750db8d73a5b442b1c99ed9/Screenshot%202026-03-15%20at%2009.21.59.png)
+
 
 ## Key Features
 - **Penguin top 3D Design** Equipped with holes for lamp cable, and hole to install the heat set insert.
@@ -36,7 +36,7 @@ Bottom Up
 | Item | Qty | Price (IDR) | Link | Notes |
 |------|-----|-------------|------|-------|
 | 3D print Delivery | 1 | USD 5 | | I plan to use printin legion|
-| 30pcs Heat insert | 1 | Rp53.000| [CHeat Insert]([https://www.tokopedia.com/ciptakarya3d/brass-hot-melt-thread-inserts-nut-m2-m3-m4-m5-m6-double-twill-knurled-1733549600544294273](https://www.tokopedia.com/indocart/3d-printer-tools-compatible-brass-heat-insert-nuts-double-twill-knurled-injection-copper-thread-inserts-x-30pcs-1731656093817144863?extParam=ivf%3Dfalse%26keyword%3Dheat+insert%26search_id%3D2026020405080594F6D7E04A4D45022BPL%26src%3Dsearch&t_id=1770114008960&t_st=19&t_pp=search_result&t_efo=search_pure_goods_card&t_ef=goods_search&t_sm=&t_spt=search_result) |  |
+| 30pcs Heat insert | 1 | Rp53.000| CHeat Insert]([https://www.tokopedia.com/ciptakarya3d/brass-hot-melt-thread-inserts-nut-m2-m3-m4-m5-m6-double-twill-knurled-1733549600544294273](https://www.tokopedia.com/indocart/3d-printer-tools-compatible-brass-heat-insert-nuts-double-twill-knurled-injection-copper-thread-inserts-x-30pcs-1731656093817144863?extParam=ivf%3Dfalse%26keyword%3Dheat+insert%26search_id%3D2026020405080594F6D7E04A4D45022BPL%26src%3Dsearch&t_id=1770114008960&t_st=19&t_pp=search_result&t_efo=search_pure_goods_card&t_ef=goods_search&t_sm=&t_spt=search_result)) |  |
 | M3 Screw pack (20 mm, 15 pcs) | 1 | Rp5.250 | [Siang Shop – M3 Screw](https://www.tokopedia.com/siang-shop/baut-jp-stainless-m3-panjang-6-sd-50mm-20mm-2cm-5df5c) |  |
 | Shipping – Laris Jaya Baut |  | Rp5.000 |  |  |
 | Shipping – IndoCart|  | Rp17.000 |  |  |
