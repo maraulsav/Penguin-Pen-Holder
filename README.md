@@ -15,7 +15,7 @@ The Final Design
 
 ## 3D Design
 Top Part: Front
-
+![](./Users/maritzaauliasavitri/Desktop/to.Screenshot 2026-03-15 at 10.55.35)
 
 
 Top Part: Side
