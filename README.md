@@ -4,7 +4,7 @@ Actually, initially I actually wanted to design a lamp, but because of 3D printi
 She likes penguin. I wanted to design a penguin pen holder for her. 
 in this project I 3D design a penguin pen holder using Fusion360. 
 
-
+Notes: I don't know why but my github couldn't show the pictures I upload
 The Final Design
 ![](./Desktop/to.penguin)
 
