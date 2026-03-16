@@ -6,6 +6,7 @@ in this project I 3D design a penguin pen holder using Fusion360.
 
 
 The Final Design
+![](./Desktop/to.penguin)
 
 
 ## Key Features
