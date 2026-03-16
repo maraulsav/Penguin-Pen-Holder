@@ -34,16 +34,15 @@ Bottom Up
 
 
 ## BOM
-| Item | Qty | Price (IDR) | Link | Notes |
-|------|-----|-------------|------|-------|
-| 3D print Delivery | 1 | USD 5 | | I plan to use printin legion service|
-| 30pcs Heat insert | 1 | Rp53.000| [Heat Insert](https://www.tokopedia.com/indocart/3d-printer-tools-compatible-brass-heat-insert-nuts-double-twill-knurled-injection-copper-thread-inserts-x-30pcs-1731656093817144863?extParam=ivf%3Dfalse%26keyword%3Dheat+insert%26search_id%3D2026020405080594F6D7E04A4D45022BPL%26src%3Dsearch&t_id=1770114008960&t_st=19&t_pp=search_result&t_efo=search_pure_goods_card&t_ef=goods_search&t_sm=&t_spt=search_result) |  |
-| M3 Screw pack (20 mm, 15 pcs) | 1 | Rp5.250 | [Siang Shop – M3 Screw](https://www.tokopedia.com/siang-shop/baut-jp-stainless-m3-panjang-6-sd-50mm-20mm-2cm-5df5c) |  |
-| Shipping – Laris Jaya Baut |  | Rp5.000 |  |  |
-| Shipping – IndoCart|  | Rp17.000 |  |  |
-| Insurance |  | Rp1.900 |  |  |
-| **TOTAL (IDR)** |  | **Rp282.950** |  |  |
-| **TOTAL (USD)** |  | **USD 16,68** |  |  |
+| Item | Quantity | Price (IDR) | Link |
+|-----|-----|-----|-----|
+| 3D print service | 1 | - | I plan to use the Printing Legion service |
+| 30pcs Heat insert | 1 | Rp53.000 | https://www.tokopedia.com/indocart/3d-printer-tools-compatible-brass-heat-insert-nuts-double-twill-knurled-injection-copper-thread-inserts-x-30pcs-1731656093817144863 |
+| Baut Kancing 3mm M3 4mm 6mm 8mm 10mm 16mm SS304 Round Head L Socket | 8 | Rp3.200 | https://www.tokopedia.com/siang-shop/baut-jp-stainless-m3-panjang-6-sd-50mm-20mm-2cm-5df5c |
+| Estimated delivery | Shops | Rp28.400 | - |
+|  | Insurance | Rp600 | - |
+|  | Printing Legion | USD 5 | Estimated delivery based on my macropad case 3D printing |
+| **TOTAL ALL** |  | **USD 10.02** |  |
 
 ## Extra Stuff
 Thankyou for KiCad, Fusion360, and Blueprint Hackclub to make this project possible
